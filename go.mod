@@ -1,4 +1,4 @@
-module github.com/jary-287/common
+module github.com/jary-287/gopass-common
 
 go 1.18
 
