@@ -1,4 +1,4 @@
-package jeager
+package common
 
 import (
 	"time"
